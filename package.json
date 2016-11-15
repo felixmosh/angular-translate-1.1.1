@@ -1,0 +1,22 @@
+{
+  "name": "angular-translate-1.1.1",
+  "version": "1.1.1",
+  "description": "A publish of 1.x version of angular-translate",
+  "main": "angular-translate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixmosh/angular-translate-1.1.1.git"
+  },
+  "keywords": [
+    "angular-translate"
+  ],
+  "author": "Pascal Precht",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/felixmosh/angular-translate-1.1.1/issues"
+  },
+  "homepage": "https://github.com/felixmosh/angular-translate-1.1.1#readme"
+}
